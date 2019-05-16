@@ -2,3 +2,11 @@ name = "AnotherTest"
 uuid = "cb761652-754a-11e9-1d2d-6dcc2b16127a"
 authors = ["nkottary <kottarynishanth54@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+ACME = "ca8b7239-ccd3-5cce-807f-2072f3f0d108"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+
+[compat]
+JSON = "0.20, 0.21, 0.23"
+ACME = "0.7, 0.8"
