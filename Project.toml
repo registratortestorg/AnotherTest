@@ -1,7 +1,7 @@
 name = "AnotherTest"
 uuid = "cb761652-754a-11e9-1d2d-6dcc2b16127a"
 authors = ["nkottary <kottarynishanth54@gmail.com>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 ACME = "ca8b7239-ccd3-5cce-807f-2072f3f0d108"
